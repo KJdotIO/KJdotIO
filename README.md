@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KJdotIO
 - Im a 17 year old:
-Video editor
-Graphic designer
-Motion designer
+Video editor,
+Graphic designer,
+Motion designer,
 Trader and aspiring front end dev!
 
 <!---
